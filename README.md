@@ -5,6 +5,12 @@ Machine Learning Mini projet d’application , développer un programme complet 
 
 ### Membres du groupe
 - MQAM Youness
+- BELAKBIR Sara
+### En cadrent 
+- M. HAJA Zakaria 
+
+
+
 
 ### Exigences
 - pandas
